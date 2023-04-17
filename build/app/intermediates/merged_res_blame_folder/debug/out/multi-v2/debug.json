@@ -469,7 +469,7 @@
             "outputFile": "com.example.test.app-merged_res-11:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/apple/Desktop/Flutter Test/ChatApp/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/apple/Desktop/Flutter Test/Quote_app/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -1173,7 +1173,7 @@
                     }
                 },
                 {
-                    "source": "/Users/apple/Desktop/Flutter Test/ChatApp/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/apple/Desktop/Flutter Test/Quote_app/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

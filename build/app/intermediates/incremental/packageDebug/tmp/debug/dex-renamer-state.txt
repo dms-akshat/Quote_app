@@ -1,4 +1,4 @@
-#Mon Apr 17 11:06:20 IST 2023
-base.0=/Users/apple/Desktop/Flutter Test/ChatApp/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Mon Apr 17 11:45:32 IST 2023
+base.0=/Users/apple/Desktop/Flutter Test/Quote_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
